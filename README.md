@@ -20,6 +20,7 @@ Proyek ini melakukan penyelaman mendalam (*deep dive*) ke dalam **ribuan ulasan 
 * **Sumber Data:** Kaggle
 * **Nama Dataset:** Gojek App Reviews (Bahasa Indonesia)
 * **Tautan:** `https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia`
+* **Presentation Slide:** `https://www.canva.com/design/DAGxtmRjlgo/8DeLHu9dCiiYAvMbJeIVZw/edit?utm_content=DAGxtmRjlgo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`
 
 ---
 
